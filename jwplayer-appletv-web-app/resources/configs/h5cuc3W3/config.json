@@ -1,11 +1,12 @@
 {
   "playlists": [
-    "pmL5cwuG"
+    "pmL5cwuG",
+    "SzOejWLD"
   ],
   "featuredPlaylist": "cMcffwM7",
-  "splashScreen": "images/jw-main.png",
-  "bannerImage": "images/jw-header.png",
-  "backgroundColor": "#7e0023",
+  "splashScreen": "images/refinery_splash_screen.png",
+  "bannerImage": "images/refinery_header.png",
+  "backgroundColor": "#F7D8FE",
   "autoAdvance": true,
   "autoAdvanceWarningOffset": 10,
   "autoAdvanceMessage": "The next video will start in ${offset} seconds."
