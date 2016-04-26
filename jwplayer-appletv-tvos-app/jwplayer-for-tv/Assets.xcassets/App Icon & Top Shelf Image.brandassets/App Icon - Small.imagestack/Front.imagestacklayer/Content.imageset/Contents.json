@@ -2,6 +2,7 @@
   "images" : [
     {
       "idiom" : "tv",
+      "filename" : "jw-appletv_appicon_small_front.png",
       "scale" : "1x"
     }
   ],

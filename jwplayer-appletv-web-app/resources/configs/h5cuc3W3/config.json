@@ -5,9 +5,9 @@
     "bexFB52H"
   ],
   "featuredPlaylist": "lhKpR8Nc",
-  "splashScreen": "images/refinery_splash_screen.png",
-  "bannerImage": "images/refinery_header.png",
-  "backgroundColor": "#F7D8FE",
+  "splashScreen": "images/jw_appletv_SplashScreen.png",
+  "bannerImage": "images/jw_appletv_branded_header_image.png",
+  "backgroundColor": "#f26b65",
   "autoAdvance": true,
   "autoAdvanceWarningOffset": 10,
   "autoAdvanceMessage": "The next video will start in ${offset} seconds."
