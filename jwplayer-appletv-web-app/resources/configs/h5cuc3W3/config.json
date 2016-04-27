@@ -7,7 +7,7 @@
   "featuredPlaylist": "lhKpR8Nc",
   "splashScreen": "images/appletv_SplashScreen.png",
   "bannerImage": "images/appletv_branded_header_image.png",
-  "backgroundColor": "#f26b65",
+  "backgroundColor": "#f06e72",
   "autoAdvance": true,
   "autoAdvanceWarningOffset": 10,
   "autoAdvanceMessage": "The next video will start in ${offset} seconds."
