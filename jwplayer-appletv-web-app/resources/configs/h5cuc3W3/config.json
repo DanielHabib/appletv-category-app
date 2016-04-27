@@ -5,8 +5,8 @@
     "bexFB52H"
   ],
   "featuredPlaylist": "lhKpR8Nc",
-  "splashScreen": "images/jw_appletv_SplashScreen.png",
-  "bannerImage": "images/jw_appletv_branded_header_image.png",
+  "splashScreen": "images/appletv_SplashScreen.png",
+  "bannerImage": "images/appletv_branded_header_image.png",
   "backgroundColor": "#f26b65",
   "autoAdvance": true,
   "autoAdvanceWarningOffset": 10,
